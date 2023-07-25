@@ -1,0 +1,7 @@
+name: chromtoconc
+dependencies:
+  - pandas
+  - plotly
+  - pip
+  - pip:
+    - polars
